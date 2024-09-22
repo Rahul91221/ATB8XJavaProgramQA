@@ -16,6 +16,7 @@ public class Lab15_char_Literals {
          char tab_line='\t';
 
          //Null - Non primitive data type
+        //
 
 
 
